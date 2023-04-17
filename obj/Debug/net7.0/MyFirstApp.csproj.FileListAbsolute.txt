@@ -1,0 +1,15 @@
+C:\Users\akasgup.FAREAST\source\repos\MyFirstApp\bin\Debug\net7.0\MyFirstApp.exe
+C:\Users\akasgup.FAREAST\source\repos\MyFirstApp\bin\Debug\net7.0\MyFirstApp.deps.json
+C:\Users\akasgup.FAREAST\source\repos\MyFirstApp\bin\Debug\net7.0\MyFirstApp.runtimeconfig.json
+C:\Users\akasgup.FAREAST\source\repos\MyFirstApp\bin\Debug\net7.0\MyFirstApp.dll
+C:\Users\akasgup.FAREAST\source\repos\MyFirstApp\bin\Debug\net7.0\MyFirstApp.pdb
+C:\Users\akasgup.FAREAST\source\repos\MyFirstApp\obj\Debug\net7.0\MyFirstApp.csproj.AssemblyReference.cache
+C:\Users\akasgup.FAREAST\source\repos\MyFirstApp\obj\Debug\net7.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akasgup.FAREAST\source\repos\MyFirstApp\obj\Debug\net7.0\MyFirstApp.AssemblyInfoInputs.cache
+C:\Users\akasgup.FAREAST\source\repos\MyFirstApp\obj\Debug\net7.0\MyFirstApp.AssemblyInfo.cs
+C:\Users\akasgup.FAREAST\source\repos\MyFirstApp\obj\Debug\net7.0\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\akasgup.FAREAST\source\repos\MyFirstApp\obj\Debug\net7.0\MyFirstApp.dll
+C:\Users\akasgup.FAREAST\source\repos\MyFirstApp\obj\Debug\net7.0\refint\MyFirstApp.dll
+C:\Users\akasgup.FAREAST\source\repos\MyFirstApp\obj\Debug\net7.0\MyFirstApp.pdb
+C:\Users\akasgup.FAREAST\source\repos\MyFirstApp\obj\Debug\net7.0\MyFirstApp.genruntimeconfig.cache
+C:\Users\akasgup.FAREAST\source\repos\MyFirstApp\obj\Debug\net7.0\ref\MyFirstApp.dll
